@@ -1,14 +1,10 @@
 
 # TODO-GENERATOR
 This is a basic vanilla Javascript project.
-Some of the key Features of the project are: 
-
-
-
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="960" alt="MainScreenshot" src="https://user-images.githubusercontent.com/79491041/146312232-2f2ca0de-4b0d-459d-8ed1-65f3301b4798.png">
 
 
 ## Features
